@@ -1,0 +1,5 @@
+> ruby ./ruby_demo.rb 
+Enter a '.txt' file name
+test.txt
+Input File: test.txt
+Output File: test.out.txt
